@@ -1,36 +1,25 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Vibe-Coding Portfolio
 
-## Getting Started
+Want to build a portfolio using next.js — **even if you don’t know coding?** 🎬
 
-First, run the development server:
+In this Vibe Coding tutorial, we’ll create a modern portfolio UI using a fast development approach that lets you build powerful apps with minimal coding.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+This tutorial is designed to help you understand what Vibe Coding is and how to use it to build real apps — whether you're a beginner or an experienced developer.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🚀 In this video you’ll learn:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- What Vibe Coding is and why developers are using it
+- How to build a portfolio using next.js and tailwind css - **even if you don't know coding**
+- Design a modern portfolio layout
+- How to build professional portfolio faster
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+This tutorial is perfect for beginners to advanced developers, especially if you want to:
 
-## Learn More
+- Learn Vibe Coding from beginner to pro
+- Understand how to build mobile and web apps from scratch
+- Create portfolio-level projects
+- Build apps even if you’re new to coding
 
-To learn more about Next.js, take a look at the following resources:
+By the end of this tutorial, you’ll have a beautiful portfolio UI built with next.js and tailwind css that you can expand into a complete portfolio website.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+💡 Whether you want to learn next.js, explore Vibe Coding, or build apps faster, this tutorial will help you start building real mobile and web apps from scratch.
