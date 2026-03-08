@@ -48,9 +48,9 @@ export default function Hero() {
             className="text-5xl sm:text-6xl lg:text-7xl font-bold leading-[1.1] tracking-tight mb-6"
           >
             Hi, I&apos;m{' '}
-            <span className="gradient-text">Keshav</span>
+            <span className="gradient-text">Rittik</span>
             <br />
-            <span className="text-zinc-400">Raghav</span>
+            <span className="text-zinc-400">Soni</span>
           </motion.h1>
 
           <motion.div
@@ -153,7 +153,7 @@ export default function Hero() {
             <div className="absolute inset-3 rounded-full overflow-hidden border-2 border-white/[0.08]">
               <Image
                 src="/avatar.png"
-                alt="Keshav Raghav"
+                alt="Rittik Soni"
                 fill
                 className="object-cover"
                 priority

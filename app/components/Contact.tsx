@@ -6,10 +6,10 @@ import { HiMail, HiLocationMarker } from 'react-icons/hi';
 import { FaGithub, FaLinkedin, FaXTwitter, FaDribbble } from 'react-icons/fa6';
 
 const socials = [
-  { icon: FaGithub, href: '#', label: 'GitHub', handle: '@keshavraghav' },
-  { icon: FaLinkedin, href: '#', label: 'LinkedIn', handle: 'in/keshavraghav' },
-  { icon: FaXTwitter, href: '#', label: 'X (Twitter)', handle: '@keshav_dev' },
-  { icon: FaDribbble, href: '#', label: 'Dribbble', handle: '@keshavr' },
+  { icon: FaGithub, href: '#', label: 'GitHub', handle: '@rittiksoni' },
+  { icon: FaLinkedin, href: '#', label: 'LinkedIn', handle: 'in/rittiksoni' },
+  { icon: FaXTwitter, href: '#', label: 'X (Twitter)', handle: '@rittik_dev' },
+  { icon: FaDribbble, href: '#', label: 'Dribbble', handle: '@rittiks' },
 ];
 
 export default function Contact() {
@@ -109,7 +109,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <div className="text-sm font-medium text-white">Email</div>
-                  <div className="text-sm text-zinc-500">keshav@example.com</div>
+                  <div className="text-sm text-zinc-500">rittik@example.com</div>
                 </div>
               </div>
             </div>

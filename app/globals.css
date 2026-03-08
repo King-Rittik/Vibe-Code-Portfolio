@@ -21,8 +21,6 @@
 }
 
 * {
-  margin: 0;
-  padding: 0;
   box-sizing: border-box;
 }
 
@@ -151,4 +149,32 @@ body {
     linear-gradient(rgba(124, 58, 237, 0.03) 1px, transparent 1px),
     linear-gradient(90deg, rgba(124, 58, 237, 0.03) 1px, transparent 1px);
   background-size: 60px 60px;
+}
+
+/* ===== Light Theme (Design Page) ===== */
+.light-theme {
+  --background: #f8f9fb;
+  --foreground: #0f172a;
+  color-scheme: light;
+}
+
+.light-theme * {
+  color-scheme: light;
+}
+
+.light-theme ::-webkit-scrollbar-track {
+  background: #f8f9fb;
+}
+
+.light-theme ::-webkit-scrollbar-thumb {
+  background: rgba(37, 99, 235, 0.2);
+}
+
+.light-theme ::-webkit-scrollbar-thumb:hover {
+  background: rgba(37, 99, 235, 0.4);
+}
+
+.light-theme ::selection {
+  background: rgba(37, 99, 235, 0.15);
+  color: #0f172a;
 }

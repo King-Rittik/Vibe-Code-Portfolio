@@ -14,19 +14,19 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Keshav Raghav | Senior Software Engineer",
+  title: "Rittik Soni | Senior Software Engineer",
   description:
-    "Portfolio of Keshav Raghav — Senior Software Engineer specializing in distributed systems, cloud-native architectures, and building products used by millions.",
+    "Portfolio of Rittik Soni — Senior Software Engineer specializing in distributed systems, cloud-native architectures, and building products used by millions.",
   keywords: [
     "software engineer",
     "full-stack developer",
     "react",
     "next.js",
     "portfolio",
-    "keshav raghav",
+    "rittik soni",
   ],
   openGraph: {
-    title: "Keshav Raghav | Senior Software Engineer",
+    title: "Rittik Soni | Senior Software Engineer",
     description:
       "Senior Software Engineer specializing in distributed systems and cloud-native architectures.",
     type: "website",

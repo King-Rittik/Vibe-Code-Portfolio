@@ -16,7 +16,7 @@ export default function Footer() {
         <div className="flex flex-col md:flex-row items-center justify-between gap-6">
           {/* Logo */}
           <a href="#home" className="text-lg font-bold tracking-tight">
-            <span className="gradient-text">KR</span>
+            <span className="gradient-text">RS</span>
             <span className="text-zinc-600">.</span>
           </a>
 
@@ -38,7 +38,7 @@ export default function Footer() {
           <div className="flex items-center gap-1 text-xs text-zinc-600">
             <span>Built with</span>
             <FaHeart className="text-violet-500 text-[10px]" />
-            <span>by Keshav Raghav · © {new Date().getFullYear()}</span>
+            <span>by Rittik Soni · © {new Date().getFullYear()}</span>
           </div>
         </div>
       </div>
