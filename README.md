@@ -1,4 +1,5 @@
 # Vibe-Coding Portfolio
+[YouTube](https://youtu.be/EY2LPKC1nV0)
 
 Want to build a portfolio using next.js — **even if you don’t know coding?** 🎬
 
